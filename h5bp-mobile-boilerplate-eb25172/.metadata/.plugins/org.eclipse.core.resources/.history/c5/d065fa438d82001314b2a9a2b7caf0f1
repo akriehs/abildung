@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8"/>
+<title>Design über CSS pur -Beispiel</title>
+<style type="text/css">
+<!--
+#kopfbereich {
+background-color: red}
+#steuerung {
+background-color: yellow}
+#schatten {
+background-color: green}
+#inhalt {
+background-color: #ceb98e;}
+
+-->
+
+
+</style>
+
+
+</head>
+
+<body>
+<script src="http://static.gaskrank.tv/widget/video.js"></script>
+<div id="gaskrank-widget-video" gkdata="24b"></div>
+<div id="kopfbereich">
+<p>Säulenbauten des 20. Jahrhunderts</p>
+</div>
+
+<div id="steuerung">
+Steuerung
+</div>
+
+
+<div id="schatten">
+Hier kommt später der Schatten
+</div>
+
+<div id="inhalt">
+Der eigentliche Inhaltsbereich
+
+</div>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+

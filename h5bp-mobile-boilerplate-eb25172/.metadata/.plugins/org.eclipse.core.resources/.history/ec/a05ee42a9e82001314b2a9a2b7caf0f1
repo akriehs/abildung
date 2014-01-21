@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8"/>
+<title>Homepage1</title>
+<style type="text/css">
+<!--
+#snowspeedhill {
+background-color: lightcyan}
+#imriadabezirk {
+
+background-color: }
+#häuftiwiesnundacka{
+
+background-color: lightcyan}
+#mundartgedicht {
+
+background-color: lightcyan}
+#inhalt {
+background-color: lightcyan;}
+#meinerstsbüacherl {
+
+background-color: darkorange}
+
+-->
+
+
+</style>
+
+
+</head>
+
+<body>
+
+<div id="snowspeedhill">
+<h1>SNOWSPEEDHILL-RACE in EBERSCHWANG, Österreich</h1>
+</div>
+
+<p>
+Der <strong>Event</strong> ist cool, fetzig und bürgt mit einer geballten Ladung an Action für Partystimmung bei Jung und Alt.</p>
+
+<p>
+Das <strong>Beschleunigungs-Sprintrennen</strong>, das bei Flutlicht auf einer präparierten Skipiste mit <strong>Enduro/Cross Motorrädern, Quads und Motorschlitten</strong> ausgetragen wird, 
+zeigt spannende Rennmomente und zahlreiche Schneepirouetten.</p>
+
+<script src="http://static.gaskrank.tv/widget/video.js"></script>
+<div id="gaskrank-widget-video" gkdata="24b"></div>
+<div id="imriadabezirk">
+<h2>EBERSCHWANG</h2>
+<p>
+Im Riader Bezirk
+liegt am Süd-Rand a Gmoa,
+gegen dö san dö andern
+rundum allö kloa.
+A da Mittn drin d'Hofmark
+und weithin verstraht
+san viel kloanö Dörfer,
+frei ruahlö und stad.</p>
+</div>
+
+<div id="häuftöwiesnundacker">
+<p>
+Häuftö Wiesn und Acker,
+viel Felder und Wald
+und a fruchtbarer Boden,
+so was findt ma net bald.
+Und wer amal da war,
+der kimmt oiwei wieder,
+denn d'Leut, dö da wohnan,
+san ah net grad z'wider.</p>
+</div>
+
+
+<div id="mundartgedicht">
+<p>
+Mundartgedicht von Walter Egger, Mundartdichter aus Eberschwang, Österreich </p>
+</div>
+
+<div id="inhalt">
+<p>
+"Walter Egger schreibt diese Gedichte und diese kleinen Erzählungen, 
+weil er aufgeschlossenen Leuten gerne Kurzweil und Freude bereitet,
+auch manche Einsicht in die Weisheit der einfachen Dinge verbreiten helfen will 
+in unserer ziellos auseinanderlaufenden Zeit."</p>
+</div>
+
+<div id="meinerstsbüacherl">
+
+<p>
+Zum Geleit seines Buches "Mein erst's Büacherl" von Dr. Josef Mader</p>
+
+</div>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+

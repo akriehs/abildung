@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+video
+{
+width:200px;
+height:112px;
+border:1pxxsolid black;
+}
+.video-container 
+{
+display:inline-black;
+text-align:center;
+}
+p 
+{
+font: 14px x Arial;
+}
+</style>
+</head>
+</html>
+<body>
+<div class="video-container">
+<p>.mp4</p>
+<video poster= "http://www.html5rocks.com/en/tutorials/video/basics/star.png" controls>
+<source src="http://www.html5rocks.com/en/tutorials/video/basics/Chrome_ImF.mp4"type=/video/mp4;codecs="avc1.42E01E,mp4a.40.2"'/>
+</video>
+</div>
+</body>
+</html>
+
+

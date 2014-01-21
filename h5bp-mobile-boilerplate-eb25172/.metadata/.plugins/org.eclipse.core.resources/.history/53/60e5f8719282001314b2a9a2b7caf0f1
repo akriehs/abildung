@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8"/>
+<title>Design über CSS pur -Beispiel</title>
+<style type="text/css">
+<!--
+#kopfbereich {
+background-color: lightcyan}
+#steuerung {
+background-color: lightcyan}
+#schatten {
+background-color: lightcyan}
+#inhalt {
+background-color: beige;}
+
+-->
+
+
+</style>
+
+
+</head>
+
+<body>
+
+<p>SNOWSPEEDHILL-RACE in EBERSCHWANG, Österreich</p>
+
+<p>
+Der Event ist cool, fetzig und bürgt mit einer geballten Ladung an Action für Partystimmung bei Jung und Alt.</p>
+
+<p>
+Das Beschleunigungs-Sprintrennen, das bei Flutlicht auf einer präparierten Skipiste mit Enduro/Cross Motorrädern, Quads und Motorschlitten ausgetragen wird, 
+zeigt spannende Rennmomente und zahlreiche Schneepirouetten.</p>
+<script src="http://static.gaskrank.tv/widget/video.js"></script>
+<div id="gaskrank-widget-video" gkdata="24b"></div>
+<div id="kopfbereich">
+<p>
+Im Riader Bezirk
+liegt am Süd-Rand a Gmoa,
+gegen dö san dö andern
+rundum allö kloa.
+A da Mittn drin d'Hofmark
+und weithin verstraht
+san viel kloanö Dörfer,
+frei ruahlö und stad.</p>
+</div>
+
+<div id="steuerung">
+<p>
+Häuftö Wiesn und Acker,
+viel Felder und Wald
+und a fruchtbarer Boden,
+so was findt ma net bald.
+Und wer amal da war,
+der kimmt oiwei wieder,
+denn d'Leut, dö da wohnan,
+san ah net grad z'wider.</p>
+</div>
+
+
+<div id="schatten">
+<p>
+Mundartgedicht von Walter Egger, Mundartdichter aus Eberschwang, Österreich </p>
+</div>
+
+<div id="inhalt">
+<p>
+"Walter Egger schreibt diese Gedichte und diese kleinen Erzählungen, 
+weil er aufgeschlossenen Leuten gerne Kurzweil und Freude bereitet,
+auch manche Einsicht in die Weisheit der einfachen Dinge verbreiten helfen will 
+in unserer ziellos auseinanderlaufenden Zeit."</p>
+</div>
+
+<div id="Mein erst's Büacherl">
+
+<p>
+Zum Geleit seines Buches "Mein erst's Büacherl" von Dr. Josef Mader</p>
+
+</div>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+
